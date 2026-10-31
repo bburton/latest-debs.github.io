@@ -4,9 +4,23 @@
   <link href="https://latest-debs.github.io/"/>
   <link rel="self" href="https://latest-debs.github.io/feed.xml"/>
   <id>https://latest-debs.github.io/feed.xml</id>
-  <updated>2026-10-31T12:55:28Z</updated>
+  <updated>2026-10-31T19:26:27Z</updated>
   <author><name>latest-debs</name></author>
   <subtitle>Latest dev tools, packaged for Debian — automatically. One entry per release published to the apt channel.</subtitle>
+  <entry>
+    <id>https://github.com/latest-debs/act-debian/releases/tag/v0.2.93%2B1</id>
+    <title>act v0.2.93+1</title>
+    <link href="https://github.com/latest-debs/act-debian/releases/tag/v0.2.93%2B1"/>
+    <updated>2026-10-31T19:26:27Z</updated>
+    <content type="html">&lt;p&gt;latest-debs published &lt;strong&gt;act&lt;/strong&gt; &lt;code&gt;v0.2.93+1&lt;/code&gt;. Install with &lt;code&gt;sudo apt install act&lt;/code&gt;.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://github.com/latest-debs/fresh-editor-debian/releases/tag/v0.5.7%2B1</id>
+    <title>fresh-editor v0.5.7+1</title>
+    <link href="https://github.com/latest-debs/fresh-editor-debian/releases/tag/v0.5.7%2B1"/>
+    <updated>2026-10-31T19:25:41Z</updated>
+    <content type="html">&lt;p&gt;latest-debs published &lt;strong&gt;fresh-editor&lt;/strong&gt; &lt;code&gt;v0.5.7+1&lt;/code&gt;. Install with &lt;code&gt;sudo apt install fresh-editor&lt;/code&gt;.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>https://github.com/latest-debs/mise-debian/releases/tag/v2026.10.25%2B1</id>
     <title>mise v2026.10.25+1</title>
@@ -412,19 +426,5 @@
     <link href="https://github.com/latest-debs/zed-debian/releases/tag/v1.24.2%2B1"/>
     <updated>2026-10-14T17:27:26Z</updated>
     <content type="html">&lt;p&gt;latest-debs published &lt;strong&gt;zed&lt;/strong&gt; &lt;code&gt;v1.24.2+1&lt;/code&gt;. Install with &lt;code&gt;sudo apt install zed&lt;/code&gt;.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>https://github.com/latest-debs/vite-plus-debian/releases/tag/v1.2.0%2B1</id>
-    <title>vite-plus v1.2.0+1</title>
-    <link href="https://github.com/latest-debs/vite-plus-debian/releases/tag/v1.2.0%2B1"/>
-    <updated>2026-10-14T14:38:36Z</updated>
-    <content type="html">&lt;p&gt;latest-debs published &lt;strong&gt;vite-plus&lt;/strong&gt; &lt;code&gt;v1.2.0+1&lt;/code&gt;. Install with &lt;code&gt;sudo apt install vite-plus&lt;/code&gt;.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>https://github.com/latest-debs/trivy-debian/releases/tag/v0.76.0%2B1</id>
-    <title>trivy v0.76.0+1</title>
-    <link href="https://github.com/latest-debs/trivy-debian/releases/tag/v0.76.0%2B1"/>
-    <updated>2026-10-14T12:15:57Z</updated>
-    <content type="html">&lt;p&gt;latest-debs published &lt;strong&gt;trivy&lt;/strong&gt; &lt;code&gt;v0.76.0+1&lt;/code&gt;. Install with &lt;code&gt;sudo apt install trivy&lt;/code&gt;.&lt;/p&gt;</content>
   </entry>
 </feed>
